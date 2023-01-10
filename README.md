@@ -1,0 +1,2 @@
+# cs50x
+Github repo for learning CS50x
